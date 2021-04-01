@@ -3,3 +3,8 @@ https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a583
 
 #EXTINF:0, tvg-logo="" group-title="",WRAL5
 http://media-hls-az1.wral.com/livehttporigin/_definst_/mp4:encoder25-high/chunklist.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="TV", Animax Japan (English Subs)
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
+
+
